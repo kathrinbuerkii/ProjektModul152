@@ -1,0 +1,75 @@
+/* NAVIGATION: */
+.navbar {
+    background-image: linear-gradient(to top, #cde3b6 1%, #e6ffcc 50%) !important;
+    padding: 1% !important;
+    width: 100% !important;
+    z-index: 1000 !important;
+    position: fixed !important;
+    box-shadow: 2px 1px 3px #6dab6d !important;
+
+}
+
+/* navigation items  */
+.nav-item	{
+    border-right: solid #6dab6d  1px;
+
+}
+.nav-link{
+    color: #6dab6d  !important;
+}
+.nav-item:hover	{
+    background-color: #b3e3b3 !important;
+    border-radius: 5%;
+}
+/* wenn fenster verkleinert wird */
+/* für handy und tablet ansicht */
+.navbar-toggler	{
+    background-color: #b3e3b3 !important;
+    color: white !important;
+}
+
+/* link der activ ist*/
+#active	{
+    color: #375737 !important;
+
+}
+body{
+    background-color: #ccffcc !important;
+    height: 100%;
+}
+main{
+    color: black !important;
+    padding-top: 10%;
+}
+.title{
+    text-align: center;
+    font-size: 300%;
+}
+.fa-bone,#right{
+    color: white;
+    transform: rotate(30deg);
+    text-shadow: 1px 1px 4px #000;
+}
+#right{
+    transform: rotate(-30deg) !important;
+}
+.trailer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    display: block
+}
+h1{
+    margin-left: 1% !important;
+}
+img{
+    width: 100% !important;
+    box-shadow: 2px 1px 3px #6dab6d !important;
+}
+.container{
+    margin-left: 1% !important;
+    margin-top: 1%;
+}
+.motivation{
+    margin-left: 1%;
+}
