@@ -41,6 +41,7 @@ main{
     color: black !important;
     padding-top: 6%;
 }
+
 .title{
     text-align: center;
     font-size: 300%;
@@ -59,19 +60,25 @@ main{
     margin-top: 2%;
     display: block
 }
-
+a{
+    text-decoration: none;
+    color: #000 !important;
+}
 img{
     width: 100% !important;
     box-shadow: 2px 1px 3px #6dab6d !important;
-    margin-bottom: 2%;
 }
 textfield{
     padding-right: 2% !important;
 }
 .container{
     margin-left: 1% !important;
-    margin-top: 1%;
+
 }
 .motivation{
     margin-left: 1%;
+}
+.info{
+    font-size: 70%;
+    float: right;
 }
