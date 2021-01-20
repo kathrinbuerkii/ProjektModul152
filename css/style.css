@@ -30,7 +30,7 @@
 
 /* link der activ ist*/
 #active	{
-    color: #375737 !important;
+    color: #009900 !important;
 
 }
 body{
@@ -39,7 +39,7 @@ body{
 }
 main{
     color: black !important;
-    padding-top: 10%;
+    padding-top: 6%;
 }
 .title{
     text-align: center;
@@ -59,12 +59,14 @@ main{
     margin-top: 2%;
     display: block
 }
-h1{
-    margin-left: 1% !important;
-}
+
 img{
     width: 100% !important;
     box-shadow: 2px 1px 3px #6dab6d !important;
+    margin-bottom: 2%;
+}
+textfield{
+    padding-right: 2% !important;
 }
 .container{
     margin-left: 1% !important;
